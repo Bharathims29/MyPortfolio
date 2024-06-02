@@ -4,25 +4,37 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Networking",
-      "description": "Configure and manage Router and Switch, Subnetting Concepts,OSI model,TCP/IP protocols, Routing protocal (OSPF,BGP,RIP,IS-IS), Switching protocol (STP,RSTP,VLAN,LACP)"
+      "description": "Configure and manage Router and Switch, Subnetting Concepts, OSI model, TCP/IP protocols, Routing protocal (OSPF, BGP, RIP, IS-IS), Switching protocol (STP,RSTP,VLAN,LACP)"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Linux Server",
-      "description": "User management,Process management,Storage management,LVM Concepts,Security concepts like firewall and selinux,performance monitoring,Permissions,samba,Shell Scripting"
+      "description": "User management, Process management, Storage management, LVM Concepts, Security concepts like firewall and selinux, performance monitoring, Permissions, samba, Shell Scripting"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "Windows Server",
-      "description": "Active Directory,Domain Controller,Group Policy management,DHCP configuration,DNS configure and management"
+      "description": "Active Directory, Domain Controller, Group Policy management, DHCP configuration, DNS configure and management, Role and Policy Management"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Amazon Web Services",
-      "description": "Familiar in services like, EC2(Instances,ELB,Autoscaling,EBS), RDS,Lambda,VPC,IAM,Route53, Cloudwatch,CloudTrail,Cloud Front, EventBridge,AWS SNS "
+      "description": "Familiar in services like, EC2(Instances,ELB,Autoscaling,EBS), RDS, Lambda, VPC, IAM, Route53, Cloudwatch, CloudTrail, Cloud Front, EventBridge, AWS SNS "
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "CloudFlare",
+      "description": "Familiar in services like, EC2(Instances,ELB,Autoscaling,EBS), RDS, Lambda, VPC, IAM, Route53, Cloudwatch, CloudTrail, Cloud Front, EventBridge, AWS SNS "
+    },
+    {
+      "id": "5",
+      "src": "./img/feather-pen-1.png",
+      "title": "Jenkins",
+      "description": "Familiar in services like, EC2(Instances,ELB,Autoscaling,EBS), RDS, Lambda, VPC, IAM, Route53, Cloudwatch, CloudTrail, Cloud Front, EventBridge, AWS SNS "
     }
   ],
   "portfolio": [
