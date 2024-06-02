@@ -1,0 +1,84 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Networking",
+      "description": "Configure and manage Router and Switch, Subnetting Concepts,OSI model,TCP/IP protocols, Routing protocal (OSPF,BGP,RIP,IS-IS), Switching protocol (STP,RSTP,VLAN,LACP)"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Linux Server",
+      "description": "User management,Process management,Storage management,LVM Concepts,Security concepts like firewall and selinux,performance monitoring,Permissions,samba,Shell Scripting"
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Windows Server",
+      "description": "Active Directory,Domain Controller,Group Policy management,DHCP configuration,DNS configure and management"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Amazon Web Services",
+      "description": "Familiar in services like, EC2(Instances,ELB,Autoscaling,EBS), RDS,Lambda,VPC,IAM,Route53, Cloudwatch,CloudTrail,Cloud Front, EventBridge,AWS SNS "
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Zimbra Mail Server Configuration ",
+      "description": "Lordiiscing elit.nmdisse eros tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Grafana Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "PHP Myadmin Configuration",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "4",
+      "src": "./img/placeholder-image-3.png",
+      "title": "Dynamic Website Hosting",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github "
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
